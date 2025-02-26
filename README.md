@@ -7,7 +7,7 @@ I love building modern, stylish web applications and continuously improving my s
 - 🎨 Interested in **UI/UX & Web Design**  
 - 💡 Currently learning **React & Backend Development**  
 - 🚀 Always striving to write clean and efficient code  
-- 📫 Reach me at: **your.email@example.com**  
+- 📫 Reach me at: **nanbyeol7474@gmail.com**  
 
 ---
 
