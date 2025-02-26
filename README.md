@@ -4,7 +4,6 @@ I'm **HanbyeolSon**, a passionate **Frontend Developer** 🚀
 I love building modern, stylish web applications and continuously improving my skills.  
 
 ## 🔥 About Me  
-- 🎨 Interested in **UI/UX & Web Design**  
 - 💡 Currently learning **React & Backend Development**  
 - 🚀 Always striving to write clean and efficient code  
 - 📫 Reach me at: **nanbyeol7474@gmail.com**  
