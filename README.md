@@ -1,10 +1,10 @@
 # Hi there! 👋  
 
-I'm **HanbyeolSon**, a passionate **Frontend Developer** 🚀  
+I'm **HanbyeolSon**, a passionate **Backend Developer** 🚀  
 I love building modern, stylish web applications and continuously improving my skills.  
 
 ## 🔥 About Me  
-- 💡 Currently learning **React & Backend Development**  
+- 💡 Currently learning **React & Frontend Development**  
 - 🚀 Always striving to write clean and efficient code  
 - 📫 Reach me at: **nanbyeol7474@gmail.com**  
 
